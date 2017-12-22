@@ -1,2 +1,2 @@
 # hello-world
-Learning 
+Learning : new to github; want to do something great!
