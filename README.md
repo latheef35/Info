@@ -39,3 +39,5 @@ Jenkins Pipeline - https://jenkins.io/solutions/pipeline/
 Production Deployment - https://martinfowler.com/bliki/CanaryRelease.html
 
 Production Deployment - https://martinfowler.com/bliki/BlueGreenDeployment.html
+
+Git : https://www.git-tower.com/learn/git/videos
