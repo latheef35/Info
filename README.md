@@ -43,3 +43,9 @@ Production Deployment - https://martinfowler.com/bliki/BlueGreenDeployment.html
 Git : https://www.git-tower.com/learn/git/videos
 
 Spotlight : https://next.stoplight.io/
+
+
+Kube 101 : https://github.com/IBM/kube101/tree/master/workshop
+
+Api Specification Validator : https://github.com/IBM/openapi-validator#installation
+
