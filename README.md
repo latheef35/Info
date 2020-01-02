@@ -38,6 +38,9 @@ Jenkins Pipeline - https://jenkins.io/solutions/pipeline/
 
 Production Deployment - https://martinfowler.com/bliki/CanaryRelease.html
 
+Cheat Sheet: 
+https://cheatsheetseries.owasp.org/cheatsheets/REST_Security_Cheat_Sheet.html
+
 Production Deployment - https://martinfowler.com/bliki/BlueGreenDeployment.html
 
 Git : https://www.git-tower.com/learn/git/videos
